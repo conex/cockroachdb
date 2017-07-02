@@ -1,0 +1,3 @@
+# CockroachDB [![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg?style=flat-square)](https://godoc.org/github.com/conex/cockroachdb)  [![Build Status](https://travis-ci.org/conex/cockroachdb.svg?branch=master)](https://travis-ci.org/conex/cockroachdb) [![Go Report Card](https://goreportcard.com/badge/github.com/conex/cockroachdb)](https://goreportcard.com/report/github.com/conex/cockroachdb)
+
+This package provides a CockroachDB Box using Conex.
